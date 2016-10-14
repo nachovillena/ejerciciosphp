@@ -1,0 +1,31 @@
+html{
+    background-color: #e2e2ff;
+}
+.titulo{
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+td {
+    padding: 20px;
+}
+
+table {
+    border: 1px dotted black;
+    margin-left: 2%;
+    background-color: #c6c6ff; 
+    clear: left;
+    float:left;
+}
+div {
+    border: 1px solid #8d8dff;
+    background-color: #c6c6ff;
+    padding: 3em;
+    margin-left: 16em;
+    float: top;
+    width: 35%;
+    padding-bottom: 25%;
+    padding-right: 18%;
+    padding-left: 18%;
+
+}

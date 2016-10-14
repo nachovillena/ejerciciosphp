@@ -38,6 +38,7 @@ class Rectangulo
     public function getAltura(){
        return $this->_altura;
     }
+
 }
 
 ?>

@@ -5,5 +5,4 @@
 		echo "Edad $_GET[edad] <br>";
 		echo "Sexo: $_GET[genero] <br>";
 	}
-
 ?>
