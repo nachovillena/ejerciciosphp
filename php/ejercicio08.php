@@ -9,6 +9,4 @@
         echo "<hr><h2><b>Datos recogidos</b></h2><p> Nombre usuario: " . $_GET[nombre] . "</p>";
         echo "<p> Telefono: " . $_GET[telefono] . "</p>";
     }
-
-
 ?>
